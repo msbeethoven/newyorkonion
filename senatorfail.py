@@ -1,0 +1,1 @@
+[line.strip() for line in open("senator.txt")]
